@@ -1,0 +1,21 @@
+Product_Category,Advertising_Budget,Units_Sold,Revenue,Customer_Rating
+Electronics,1200,450,45000,4.5
+Electronics,1500,520,52000,4.6
+Electronics,800,310,31000,4.2
+Electronics,2000,680,68000,4.8
+Clothing,400,600,24000,4.0
+Clothing,600,750,30000,4.1
+Clothing,500,700,28000,3.9
+Clothing,700,880,35000,4.3
+Home & Kitchen,900,380,38000,4.4
+Home & Kitchen,1100,420,42000,4.5
+Home & Kitchen,750,320,32000,4.1
+Home & Kitchen,1300,490,49000,4.7
+Books,250,950,19000,4.6
+Books,300,1100,22000,4.7
+Books,200,800,16000,4.4
+Books,350,1250,25000,4.8
+Toys & Games,500,500,20000,4.1
+Toys & Games,650,580,23200,4.3
+Toys & Games,800,720,28800,4.5
+Toys & Games,450,460,18400,4.0
